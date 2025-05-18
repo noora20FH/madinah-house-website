@@ -1,3 +1,9 @@
+##Project Overview
+madinah-house-website
+
+profile website for a boarding house called Madinah House
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
